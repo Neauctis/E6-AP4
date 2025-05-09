@@ -52,7 +52,7 @@
         </div>
     </div>
 <div id="a-propos">
-    <br>S
+    <br>
     <h1 class="text-4xl font-bold text-center text-white mt-16">À propos</h1>
     <br>
 </div>
